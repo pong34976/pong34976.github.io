@@ -1,0 +1,5 @@
+
+.outdoor::after{
+    color: greenyellow !important;
+    content: "Internet Online" !important;
+}
